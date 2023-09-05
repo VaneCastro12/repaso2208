@@ -28,6 +28,13 @@ public class Repaso2208 {
         
         System.out.println("Me llamo: "+ nicoNombre);
         System.out.println("Y tengo "+ nicoEdad);
+        
+        // TIPOS DE DATOS PRIMITIVOS
+        /*
+        int almacena numeros enteros
+        */
+        
+        System.out.println("mostrar");
     }
     
 }
